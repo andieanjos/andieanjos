@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, I'm Andressa 👋
+I'm a Full Stack developer from Brazil who's curious about too many things for my brain to process.
 
-<!--
-**andieanjos/andieanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+- Real Estate ERP
+- Language Learning APP
 
-Here are some ideas to get you started:
+### Currently learning
+- Development for Virtual Reality
+- DynamoDB
+- AWS Lambda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages spoken
+- English
+- Brazilian Portuguese
+- Korean
+
+### How to reach me
+<a href="https://discordapp.com/users/8535/">
+  <img align="left" alt="Andressa's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
